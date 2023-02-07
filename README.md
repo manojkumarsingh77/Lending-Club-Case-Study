@@ -11,12 +11,15 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-The given dataset contains the information about the past loan application and whether they have defaulted or not. the objective of this case study is to idenfy the pattern which indicate if a person is likely to default which may be used for taking the decision whether to deny the loan. reduce the loan amount, lending at higher interest rates etc.
+The given dataset contains the information about the past loan application and whether they have defaulted or not. The objective of this case study is to idenfy the pattern which indicate if a person is likely to default which may be used for taking the decision whether to deny the loan or reduce the loan amount or can also offer loan at higher interest rates etc.
 
-Results Expected Write all your code in one well-commented Python file; briefly mention the insights and observations from the analysis Present the overall approach of the analysis in a presentation:
-Mention the problem statement and the analysis approach briefly
-Explain the results of univariate, bivariate analysis etc. in business terms
-Include visualisations and summarise the most important results in the presentation
+Results Expected:
+Write all your code in one well-commented Python file.
+Briefly mention the insights and observations from the analysis.
+Present the overall approach of the analysis in a presentation.
+Mention the problem statement and the analysis approach briefly.
+Explain the results of univariate, bivariate analysis etc. in business terms.
+Include visualisations and summarise the most important results in the presentation.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
